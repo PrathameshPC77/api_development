@@ -64,11 +64,14 @@ The **API Development** project is designed to demonstrate the creation and mana
 
 ## Configuration
    `Database:` This project uses SQLite by default. You can configure a different database in settings.py if needed.
+   
    `Authentication:` The project uses session-based authentication. You can configure it or switch to other authentication methods like JWT.
+   
    `API Documentation:` Documentation is generated automatically and can be accessed at /docs/ (if configured).
 
 ## Usage
    `API Endpoints:` Use tools like Postman or curl to interact with the API endpoints.
+   
    `Authentication:` Ensure that you are authenticated to access protected endpoints.
 
 ## Documentation: Visit /docs/ to see the API documentation.
@@ -82,4 +85,4 @@ The **API Development** project is designed to demonstrate the creation and mana
    This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
-     For any questions or issues, please contact at prathu3322@gmail.com.
+   For any questions or issues, please contact at prathu3322@gmail.com.
